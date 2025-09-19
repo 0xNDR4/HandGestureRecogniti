@@ -1,2 +1,17 @@
-# HandGestureRecogniti
-Jadi ini adalah pembaca pergerakan tangan bisa di kembangkan untuk banyak hal seperti membuat smart interuction kalau di gabungkan
+# HandGesture
+
+Realtime gesture tangan menggunakan **Mediapipe + OpenCV**.
+
+## Fitur
+
+- Deteksi gesture: Halo, OK, I Love You, Peace, Fist
+- Skeleton tangan garis merah + titik hitam
+- Teks gesture muncul di layar
+
+## Instalasi
+
+1. Clone repo:
+
+```bash
+git clone https://github.com/username/HandGesture.git
+cd HandGesture
